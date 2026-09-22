@@ -1,1 +1,1 @@
-# Graphnetliver
+# GraphOmics-HCC
